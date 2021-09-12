@@ -1,0 +1,245 @@
+@media(min-width:0) and (max-width:320px){
+    ul.navbar-nav.ms-auto.mb-2.mb-lg-0 {
+        align-items : flex-end;
+        
+    }
+    .header_contant p{
+        margin-bottom: 80px;
+    }
+    .header_contant h1{
+        font-size: 28px;
+        margin-bottom: 30px;
+    }
+    .header_contant p{
+        font-size: 12px;
+    }
+    .header_contant{
+        text-align: center;
+    }
+    .header_contant{
+        margin-bottom: 0px;
+        
+    }
+    .btn_down{
+        padding: 10px 20px;
+        margin-right: 0px;
+    }
+    .btn_veiw{
+        padding: 10px 20px;
+    }
+    .phone{
+        display: none;
+    }
+    .header_contant h4{
+        font-size: 14px;
+        letter-spacing: 1px;
+        margin-bottom: 10px;
+    }
+    .contant_list h4 {
+        font-size: 16px;
+        letter-spacing: 1px;
+        margin-top: 50px;
+    
+    }
+    .contant_list_icon p{
+        font-size: 15px;
+        margin-top: 25px;
+    }
+    .contant_list_icon ul li {
+        font-size: 17px;
+    }
+    .future_section h4{
+        font-size: 16px;
+        letter-spacing: 1px;
+    }
+    .p_tag p{
+        font-size: 15px;
+    }
+    .textimonial_section p{
+        font-size: 15px;
+    }
+    .like_section h1{
+        font-size: 32px;
+    }
+    .like_section h1{
+        font-size: 36px;
+    }
+    .nav-link{
+        margin-bottom: 10px;
+    }
+    .navbar-toggler span i{
+        color: #fff;
+    }
+    .Contact_form {
+    width: 80%;
+    }
+    .contact_from{
+        padding: 16px;
+    }
+    .contact_from form textarea{
+        width: 100%;
+    }
+    .contact_from form input {
+       
+        width: 100%;
+    }
+    .icon_contact ul {
+
+        width: 50%;
+
+        font-size: 18px;
+    }
+    .icon_contact p {
+ 
+        font-size: 14px;
+    }
+    .contact_from form input[type="submit"] {
+        font-size: 12px;
+        padding: 7px 17px;
+    }
+}
+@media(min-width:321px) and (max-width:375px){
+    .navbar-toggler span i{
+        color: #fff;
+        }
+    ul.navbar-nav.ms-auto.mb-2.mb-lg-0 {
+        align-items : flex-end;
+    }
+    .phone{
+        display: none;
+    }
+    .contact_from {
+       
+        padding: 15px;
+
+    }
+    .contact_from form input {
+       
+        width: 100%;
+    }
+    .contact_from form textarea {
+      
+        width: 100%;
+    }
+    .contact_from form input[type="submit"] {
+        font-size: 13px;
+        padding: 7px 17px;
+    }
+    .icon_contact ul {
+
+        width: 50%;
+
+        font-size: 20px;
+    }
+    .like_section h1 span {
+        font-size: 38px;
+    }
+    
+}
+@media(min-width:376px) and (max-width:425px){
+    .navbar-toggler span i{
+        color: #fff;
+        }
+    ul.navbar-nav.ms-auto.mb-2.mb-lg-0 {
+        align-items : flex-end;
+    }
+    .phone{
+        display: none;
+    }
+    .contact_from {
+       
+        padding: 15px;
+
+    }
+    .contact_from form input {
+       
+        width: 100%;
+    }
+    .contact_from form textarea {
+      
+        width: 100%;
+    }
+    .contact_from form input[type="submit"] {
+        font-size: 13px;
+        padding: 7px 17px;
+    }
+    .icon_contact ul {
+
+        width: 50%;
+
+        font-size: 20px;
+    }
+    .like_section h1 span {
+        font-size: 44px;
+    }
+    .like_section h1{
+        margin-bottom: 25px;
+    }
+    .btn_down{
+        margin-left: 35px;
+    }
+    .btn_veiw{
+        margin-left: 12px;
+    }
+}
+@media(min-width:426px) and (max-width:768px){
+    .navbar-toggler span i{
+        color: #fff;
+        }
+    ul.navbar-nav.ms-auto.mb-2.mb-lg-0 {
+        align-items : flex-end;
+    }
+    .phone {
+     
+        width: 33%;
+        bottom: -3px;
+        left: 57%;
+    }
+    .contact_from {
+       
+        padding: 15px;
+
+    }
+    .contact_from form input {
+       
+        width: 100%;
+    }
+    .contact_from form textarea {
+      
+        width: 100%;
+    }
+    .contact_from form input[type="submit"] {
+        font-size: 13px;
+        padding: 7px 17px;
+    }
+    .icon_contact ul {
+
+        width: 50%;
+
+        font-size: 20px;
+    }
+    .like_section h1 span {
+        font-size: 44px;
+    }
+    .btn_veiw{
+        margin-bottom: 15px;
+
+        font-size: 14px;
+    }
+    .icon_contact ul {
+
+        width: 45%;
+
+        font-size: 28px;
+    }
+}
+@media(min-width:769px) and (max-width:1024px){
+    
+}
+@media(min-width:1025px) and (max-width:1440px){
+    
+}
+@media(min-width:1441px) and (max-width:2560px){
+   
+}
+
